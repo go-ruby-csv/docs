@@ -1,5 +1,5 @@
 module bench
 
-go 1.26.4
+go 1.27.1
 
-require github.com/go-ruby-csv/csv v0.0.0-20260916092014-f49077ac37dd
+require github.com/go-ruby-csv/csv v0.0.0-20261010104258-a00c85221f6a
