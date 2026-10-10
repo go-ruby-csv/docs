@@ -4,3 +4,5 @@ github.com/go-ruby-csv/csv v0.0.0-20260717063450-c0e361e4d3ee h1:onqW68bntEame4+
 github.com/go-ruby-csv/csv v0.0.0-20260717063450-c0e361e4d3ee/go.mod h1:vvfFJGcGOK37vnBikohtzboL6dIfbsr54+2Ri0HkWwk=
 github.com/go-ruby-csv/csv v0.0.0-20260916092014-f49077ac37dd h1:plNVYjlP9BRlUbSP7FwmwPK+LVCY4BkYs+ZZZCv40ZQ=
 github.com/go-ruby-csv/csv v0.0.0-20260916092014-f49077ac37dd/go.mod h1:vvfFJGcGOK37vnBikohtzboL6dIfbsr54+2Ri0HkWwk=
+github.com/go-ruby-csv/csv v0.0.0-20261010104258-a00c85221f6a h1:2f8gj9GTKlT8RLGSPABdqgEaS/6UyWaIV2Othog5u4Q=
+github.com/go-ruby-csv/csv v0.0.0-20261010104258-a00c85221f6a/go.mod h1:SCzsMa3tGV8l3ygWVh7Eg/lg/xouT849ZUKpIz2xS4w=
